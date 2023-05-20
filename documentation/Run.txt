@@ -1,0 +1,8 @@
+To run project follow these steps:
+
+1. Go to cmd
+2. Go to location of file
+3. write command - ipython
+4. write command - %run user-engine.ipynb
+
+5. Go to link and click on 3line right corner of file, and upload image.
